@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year student preparing for a DevOps master's degree.
+I am a four-year student preparing for a DevOps master's degree.
 
 
 ## 🌐 Socials:
